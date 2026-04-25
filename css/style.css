@@ -40,6 +40,12 @@ body{
     border: 2px solid, yellow;
 }
 
-#lienzo-dos{
+#lienzo-seis{
     border: 2px solid, magenta;
+}
+#lienzo-dos-hidden{
+    border: 2px solid #FFA239;
+}
+.hidden{
+display: none;
 }
